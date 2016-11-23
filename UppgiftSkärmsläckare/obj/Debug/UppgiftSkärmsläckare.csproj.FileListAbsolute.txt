@@ -1,0 +1,6 @@
+C:\Users\Wisarut Kotniwong\Desktop\Faroq\Uppgift1Skärmsläckare\UppgiftSkärmsläckare\UppgiftSkärmsläckare\bin\Debug\UppgiftSkärmsläckare.exe.config
+C:\Users\Wisarut Kotniwong\Desktop\Faroq\Uppgift1Skärmsläckare\UppgiftSkärmsläckare\UppgiftSkärmsläckare\bin\Debug\UppgiftSkärmsläckare.exe
+C:\Users\Wisarut Kotniwong\Desktop\Faroq\Uppgift1Skärmsläckare\UppgiftSkärmsläckare\UppgiftSkärmsläckare\bin\Debug\UppgiftSkärmsläckare.pdb
+C:\Users\Wisarut Kotniwong\Desktop\Faroq\Uppgift1Skärmsläckare\UppgiftSkärmsläckare\UppgiftSkärmsläckare\obj\Debug\UppgiftSkärmsläckare.csprojResolveAssemblyReference.cache
+C:\Users\Wisarut Kotniwong\Desktop\Faroq\Uppgift1Skärmsläckare\UppgiftSkärmsläckare\UppgiftSkärmsläckare\obj\Debug\UppgiftSkärmsläckare.exe
+C:\Users\Wisarut Kotniwong\Desktop\Faroq\Uppgift1Skärmsläckare\UppgiftSkärmsläckare\UppgiftSkärmsläckare\obj\Debug\UppgiftSkärmsläckare.pdb
